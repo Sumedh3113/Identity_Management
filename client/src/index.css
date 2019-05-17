@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+    background: slategray;
+    color: white;
+    font-weight: bold;
+}
+
+.jumbotron{
+    background: darkslategray;
+    
+}
+
+.styleme{
+    margin-left: 10px;
+    
+}
